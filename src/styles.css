@@ -1,0 +1,118 @@
+/*current location */
+h1 {
+  font-size: 40px;
+  text-align: left;
+  color: #f6e4c4;
+}
+
+/*current date*/
+h2 {
+  font-size: 20px;
+  text-align: left;
+  color: #f6e4c4;
+}
+
+a {
+  color: #f6e4c4;
+}
+
+li {
+  list-style: none;
+  color: #f6e4c4;
+}
+
+/*days of the week headings*/
+h5 {
+  font-size: 25px;
+  color: #f6e4c4;
+}
+
+/*p is the current temperature value*/
+p {
+  font-size: 60px;
+}
+
+/*the weather images for the next days of the week*/
+i {
+  font-size: 50px;
+  color: #ff847c;
+}
+
+button {
+  border: none;
+  height: 40px;
+  border-radius: 10px;
+}
+
+/*entire card*/
+.weather-card {
+  /* background: #e3e3e3; */
+  background: #668ba4;
+  width: 1000px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 25px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+/* buttons */
+.search-button {
+  display: block;
+}
+
+.btn-primary {
+  display: block;
+}
+
+/*current weather*/
+.current-weather {
+  text-align: center;
+  color: #f6e4c4;
+}
+
+.weather {
+  font-size: 40px;
+}
+
+.temperature {
+  font-size: 16px;
+  color: #f6e4c4;
+}
+
+.curr-temperature {
+  font-size: 80px;
+  padding: 0;
+  margin-top: 0;
+}
+
+.degrees {
+  font-size: 30px;
+  top: -60px;
+  padding: 0;
+  margin: 0;
+}
+
+.current-image {
+  font-size: 100px;
+  text-align: center;
+  margin-top: 25px;
+  color: #ff847c;
+}
+
+/*weather details on the right side*/
+.weather-details {
+  font-size: 15px;
+  text-align: center;
+}
+
+/*weather for the next days of the week*/
+.weekly-weather {
+  text-align: center;
+}
+
+/*signature*/
+.tiziana {
+  font-size: 15px;
+  text-align: center;
+}
