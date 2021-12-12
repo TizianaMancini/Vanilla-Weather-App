@@ -13,7 +13,8 @@ h2 {
 }
 
 a {
-  color: #f6e4c4;
+  text-decoration: none;
+  color: inherit;
 }
 
 li {
@@ -113,6 +114,10 @@ button {
 
 /*signature*/
 .tiziana {
-  font-size: 15px;
+  font-size: 20px;
   text-align: center;
+}
+
+.github-link {
+  color: #3b4a6b;
 }
